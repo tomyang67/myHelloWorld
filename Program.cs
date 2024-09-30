@@ -1,6 +1,7 @@
 using Azure.Identity;
 using Azure.Security.KeyVault.Secrets;
 using Azure.Core;
+using Microsoft.AspNetCore.DataProtection;
 
 
 
@@ -8,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 
-
+/*
 SecretClientOptions options = new SecretClientOptions()
     {
         Retry =
@@ -23,9 +24,10 @@ var client = new SecretClient(new Uri("https://aggregator-eastasia-kv.vault.azur
 
 KeyVaultSecret secret = client.GetSecret("aa");
 
+
 string secretValue = secret.Value;
-
-
+*/
+string secretValue = "ddddddd";
 
 
 app.MapGet("/", () => "Hello World!!!! " + secretValue);
