@@ -23,3 +23,17 @@ C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\refint\akvwebapp.d
 C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\akvwebapp.pdb
 C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\akvwebapp.genruntimeconfig.cache
 C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\ref\akvwebapp.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Azure.Core.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Azure.Identity.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\System.ClientModel.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\akvwebapp.csproj.AssemblyReference.cache
+C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\akvwebapp.sourcelink.json
+C:\DeviceIdentityAggregatorService\akvwebapp\obj\Debug\net8.0\akvwebapp.csproj.Up2Date
