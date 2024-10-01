@@ -22,7 +22,8 @@ SecretClientOptions options = new SecretClientOptions()
     };
 var client = new SecretClient(new Uri("https://aggregator1-eastasia-kv.vault.azure.net/"), new DefaultAzureCredential(),options);
 
-KeyVaultSecret secret = client.GetSecret("ClientSecret");
+//KeyVaultSecret secret = client.GetSecret("ClientSecret");
+KeyVaultSecret secret = client.GetSecret("MyNewSecret");
 
 
 string secretValue = secret.Value;

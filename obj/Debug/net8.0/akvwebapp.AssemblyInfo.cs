@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("akvwebapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e4e2e0bf2a136c9c9650c660963974bef373bb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb8c040790530c047644056efacc27ec399c723c")]
 [assembly: System.Reflection.AssemblyProductAttribute("akvwebapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("akvwebapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
