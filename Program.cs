@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 
-/*
+
 SecretClientOptions options = new SecretClientOptions()
     {
         Retry =
@@ -20,14 +20,14 @@ SecretClientOptions options = new SecretClientOptions()
             Mode = RetryMode.Exponential
          }
     };
-var client = new SecretClient(new Uri("https://aggregator-eastasia-kv.vault.azure.net/"), new DefaultAzureCredential(),options);
+var client = new SecretClient(new Uri("https://aggregator1-eastasia-kv.vault.azure.net/"), new DefaultAzureCredential(),options);
 
-KeyVaultSecret secret = client.GetSecret("aa");
+KeyVaultSecret secret = client.GetSecret("ClientSecret");
 
 
 string secretValue = secret.Value;
-*/
-string secretValue = "ddddddd";
+
+//string secretValue = "ddddddd";
 
 
 app.MapGet("/", () => "Hello World!!!! " + secretValue);
